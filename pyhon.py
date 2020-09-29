@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import cgi
 import subprocess as sp
-#print("location:https://www.google.com")
 print("content-type:text/html")
 print()
 
